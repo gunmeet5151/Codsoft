@@ -1,3 +1,6 @@
 # Codsoft
-# Task 1: 
-Implement an AI agent that plays the classic game of Tic-Tac-Toe against a human player. You can use algorithms like Minimax with or without Alpha-Beta Pruning to make the AI player unbeatable. This project will help you understand game theory and basic search algorithms.
+TASK 01:- CHATBOT:
+Build a simple chatbot that responds to user inputs based on predefined rules. Use if-else statements or pattern matching techniques to identify user queries and provide appropriate responses. This will give you a basic understanding of natural language processing and conversation flow.
+SOLUTION Chatbot.py:
+Chatbot with Rule-Based Responses and GUI Interface:
+Interact with an AI-powered chatbot through a user-friendly graphical interface. Explore features such as web searches, YouTube video lookup, music playback, and engaging conversations. Built using Python and libraries like tkinter, webbrowser, PIL, and pywhatkit.
